@@ -21,7 +21,7 @@ A sample Android app built in Kotlin for implementing installed app.
 - QUERY_ALL_PACKAGES (to list installed apps)
 
 **Screenshots:**
-![Uploading Screenshot_20231019_231543.png…]()
+![Screenshot_20231019_231543](https://github.com/epegasus/Installed-Apps/assets/100923337/86fc1d4c-f385-4099-9f59-77b4025ec009)
 
 **License:**
 This project is licensed under the MIT License.
